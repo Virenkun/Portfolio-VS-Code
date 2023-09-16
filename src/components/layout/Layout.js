@@ -34,9 +34,9 @@ const Layout = () => {
   useEffect(() => {
     const path = location.pathname.replace("/", "");
     if (path === "") {
-      document.title = "Ansh Phirani | Home";
+      document.title = "Virendra Soni | Home";
     } else {
-      document.title = `Ansh Phirani | ${
+      document.title = `Virendra Soni| ${
         path.charAt(0).toUpperCase() + path.slice(1)
       }`;
     }
