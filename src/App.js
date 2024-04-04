@@ -3,6 +3,7 @@ import "./themes.css";
 import Layout from "./components/layout/Layout";
 import { HashRouter as Router } from "react-router-dom";
 import { useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react"
 function App() {
   useEffect(() => {
     const theme = localStorage.getItem("theme");
@@ -14,6 +15,7 @@ function App() {
     <Router>
       <div className="App">
         <Layout />
+        <Analytics/>
       </div>
     </Router>
   );
