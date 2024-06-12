@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Virendra Soni's Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my GitHub repository! This repository showcases some of the projects I've worked on, demonstrating my skills and experience in software development, machine learning, and web development. Below you'll find descriptions of each project, along with instructions on how to set them up and run them.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Projects](#projects)
+  - [Phishing Attack Domain Detection](#phishing-attack-domain-detection)
+  - [Netflix Clone](#netflix-clone)
+  - [Movie Recommender System](#movie-recommender-system)
+- [Setup and Installation](#setup-and-installation)
+- [Contact Information](#contact-information)
 
-### `npm start`
+## Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Phishing Attack Domain Detection
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Description**: This project aims to detect phishing domains using machine learning techniques. Different ML models were tested, and a Multilayer Perceptron (MLP) achieved 99% accuracy with well-balanced precision and recall.
+- **Technologies Used**: Python, Feature Extraction, Machine Learning, Deep Learning
+- **Key Features**:
+  - Comparison of ML models (Random Forest, Decision Tree, MLP)
+  - Feature engineering and data preprocessing
+  - User-friendly web interface and microservice Rest API
+- **Repository**: [Phishing-Domain-Detection](https://github.com/Virenkun/Phishing-Domain-Detection.git)
 
-### `npm test`
+### Netflix Clone
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Description**: A dynamic Netflix clone built with React and Firebase, featuring user authentication, subscription payments, and deployment on Google Firebase.
+- **Technologies Used**: React, JavaScript, Firebase, Cloud Deployment, Authentication
+- **Key Features**:
+  - User authentication via Google
+  - Stripe Checkout integration for payments
+  - Utilization of React Hooks, React Router, and CSS Modules
+- **Repository**: [Netflix](https://github.com/Virenkun/Netflix.git)
 
-### `npm run build`
+### Movie Recommender System
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Description**: A system that provides personalized movie recommendations using collaborative and content-based filtering techniques.
+- **Technologies Used**: Machine Learning, Python, Streamlit, Cloud Deployment
+- **Key Features**:
+  - Analysis of user ratings and movie genres
+  - Machine learning algorithms for recommendation generation
+  - Streamlit-based web interface
+- **Repository**: [Movie-Recommender-System](https://github.com/Virenkun/Movie-Recommender-System.git)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
