@@ -1,45 +1,42 @@
 # Virendra Soni's Projects
 
-Welcome to my GitHub repository! This repository showcases some of the projects I've worked on, demonstrating my skills and experience in software development, machine learning, and web development. Below you'll find descriptions of each project, along with instructions on how to set them up and run them.
+# Portfolio-VS-Code
+
+Welcome to my Portfolio project repository! This project showcases my skills and experiences through a personal portfolio website built using modern web development technologies. Below you'll find descriptions of the project, along with instructions on how to set it up and run it.
 
 ## Table of Contents
 
-- [Projects](#projects)
-  - [Phishing Attack Domain Detection](#phishing-attack-domain-detection)
-  - [Netflix Clone](#netflix-clone)
-  - [Movie Recommender System](#movie-recommender-system)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 - [Contact Information](#contact-information)
 
-## Projects
+## Project Overview
 
-### Phishing Attack Domain Detection
+This repository contains the code for my personal portfolio website. The website serves as a platform to present my projects, skills, and professional background. It's designed to be responsive, user-friendly, and visually appealing.
 
-- **Description**: This project aims to detect phishing domains using machine learning techniques. Different ML models were tested, and a Multilayer Perceptron (MLP) achieved 99% accuracy with well-balanced precision and recall.
-- **Technologies Used**: Python, Feature Extraction, Machine Learning, Deep Learning
-- **Key Features**:
-  - Comparison of ML models (Random Forest, Decision Tree, MLP)
-  - Feature engineering and data preprocessing
-  - User-friendly web interface and microservice Rest API
-- **Repository**: [Phishing-Domain-Detection](https://github.com/Virenkun/Phishing-Domain-Detection.git)
+## Features
 
-### Netflix Clone
+- **Responsive Design**: Ensures compatibility across various devices and screen sizes.
+- **Interactive UI**: Engaging user interface with smooth transitions and animations.
+- **Project Showcase**: Detailed descriptions and links to my key projects.
+- **Contact Form**: Allows visitors to get in touch with me directly through the website.
 
-- **Description**: A dynamic Netflix clone built with React and Firebase, featuring user authentication, subscription payments, and deployment on Google Firebase.
-- **Technologies Used**: React, JavaScript, Firebase, Cloud Deployment, Authentication
-- **Key Features**:
-  - User authentication via Google
-  - Stripe Checkout integration for payments
-  - Utilization of React Hooks, React Router, and CSS Modules
-- **Repository**: [Netflix](https://github.com/Virenkun/Netflix.git)
+## Technologies Used
 
-### Movie Recommender System
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Styling**: Tailwind CSS, Bootstrap
+- **Hosting**: GitHub Pages, Netlify
+- **Version Control**: Git, GitHub
 
-- **Description**: A system that provides personalized movie recommendations using collaborative and content-based filtering techniques.
-- **Technologies Used**: Machine Learning, Python, Streamlit, Cloud Deployment
-- **Key Features**:
-  - Analysis of user ratings and movie genres
-  - Machine learning algorithms for recommendation generation
-  - Streamlit-based web interface
-- **Repository**: [Movie-Recommender-System](https://github.com/Virenkun/Movie-Recommender-System.git)
+## Setup and Installation
 
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Virenkun/Portfolio-VS-Code.git
+   cd Portfolio-VS-Code
