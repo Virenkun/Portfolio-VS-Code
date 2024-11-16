@@ -5,10 +5,7 @@ import covidTrackerImage from "../../assets/project-images/covid-tracker.png";
 import vsCodePortfolioImage from "../../assets/project-images/vs-code-portfolio.png";
 import encodeImage from "../../assets/project-images/encode.png";
 
-const projectsData = [
-  
-  
-];
+const projectsData = [];
 
 const Projects = () => {
   return (
